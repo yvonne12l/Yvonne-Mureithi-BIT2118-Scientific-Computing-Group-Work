@@ -1,4 +1,3 @@
-"""BIT 2118 Scientific Computing — Task 3\nStudent: Hurley Jules\nRegistration: BSCCS/2025/56368\n"""
 
 import numpy as np
 import timeit
