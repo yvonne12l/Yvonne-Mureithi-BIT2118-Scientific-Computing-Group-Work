@@ -1,4 +1,4 @@
-"""BIT 2118 Scientific Computing — Task 7\nStudent: Hurley Jules\nRegistration: BSCCS/2025/56368\n"""
+
 
 import numpy as np
 from scipy.linalg import lu_factor, lu_solve
