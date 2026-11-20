@@ -1,7 +1,7 @@
 # BIT 2118 Scientific Computing
 
-**Student:** Hurley Jules  
-**Registration Number:** BSCCS/2025/56368  
+**Student:** Yvonne Mureithi
+**Registration Number:** BSCCS/2025/59424  
 **Unit:** BIT 2118 – Scientific Computing
 
 This individual repository contains the Scientific Computing assignment documentation and Python source files for Tasks 2–20.
